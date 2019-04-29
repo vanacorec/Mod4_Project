@@ -42,7 +42,6 @@ Given the computing power problems we actually perfer our second best model as i
 - shutil 
 - re
 - Pillow
-- Scipy
 
 ## Credits
 By Lois Rosenbloom and Caroline Vanacore
